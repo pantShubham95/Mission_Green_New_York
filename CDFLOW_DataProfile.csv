@@ -1,0 +1,20 @@
+Data Set Profile,,
+Name,CDFLOW_10K.csv,
+Size,985 KB,
+Number of records,10000,
+Frequency of Updates,Once,
+Number of Fields,10,
+Extraction Methods,CSV,
+,,
+,,
+Column Name,Data Type,Description
+Comid,character,Stream Catchment code where the pCO2 estimates exists. The code is derived from the EPA StreamCat dataset within the NHDPlus dataset.
+Date,character,"format, MM-DD-YYYY; r format, ""%m/%d/%y"""
+Time,character,"format, HH:MM:SS; r format, ""%h:%m:%s"""
+HUC_12,integer, 12 digit hydrological unit code
+State,character,"US state where data point was located, given in standard state abbreviation code"
+Temp.C,numeric,temperature in units celcius
+pH.std_units,numeric,pH given in standard pH units
+Alkalinity_ueq/kgw,numeric,total alkalinity in units - micro equivilence per kilogram water
+pCO2.uatm,numeric,partial pressure of CO2 given in units - micro atmospheres
+CO2.mg/l,numeric,CO2 concentrations given in units - milligrams per liter
