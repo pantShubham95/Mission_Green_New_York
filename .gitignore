@@ -1,0 +1,4 @@
+# ignore ALL unnecessary folder
+.ipynb_checkpoints
+.git
+.env
