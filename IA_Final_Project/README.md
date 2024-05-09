@@ -52,3 +52,6 @@ Tableau for Visualization
 
 ![image](https://github.com/mimam786/InformationArchitecture/assets/31920308/b90e1ee8-55e5-4ead-a3ec-90272365e762)
 
+## Tableau Visualization:
+
+![image](https://github.com/mimam786/InformationArchitecture/assets/31920308/83b72376-5c6a-4246-b636-ca63501f1af4)
