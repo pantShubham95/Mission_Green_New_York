@@ -55,3 +55,5 @@ Tableau for Visualization
 ## Tableau Visualization:
 
 ![image](https://github.com/mimam786/InformationArchitecture/assets/31920308/83b72376-5c6a-4246-b636-ca63501f1af4)
+
+Link: https://public.tableau.com/app/profile/harshkumar.vaghmaria/viz/IAFinalProjectGroup3/Dashboard1 
