@@ -21,6 +21,10 @@ Businesses, especially those in the hospitality or wellness industries, can use 
 Local governments can use this information to plan new infrastructure projects, such as parks or residential areas, in locations with clean air and safe water sources. This ensures that residents have access to healthy living environments.
 Real Estate Agents: The Areas with good AQI and Water Quality are encouraged to rent or purchase as they pose a higher demand in the Market.
 
+## Waterfall Plan:
+
+![Waterfall_Plan](https://github.com/mimam786/InformationArchitecture/assets/31920308/e57b2812-9989-473b-995e-a4ec761c3fa7)
+
 
 ## Air Quality Data: 
 Method to Download: CSV Download
@@ -37,15 +41,15 @@ Link:https://data.cityofnewyork.us/Health/Self-Reported-Drinking-Water-Tank-Insp
 Amazon Web Services
 
 ### Services to be used: 
-AWS SNS
-AWS EventBridge
-AWS IAM
-AWS RDS
-AWS VPC
-AWS S3 
-AWS Glue
-AWS Lambda 
-Tableau for Visualization
+- AWS SNS
+- AWS EventBridge
+- AWS IAM
+- AWS RDS
+- AWS VPC
+- AWS S3 
+- AWS Glue
+- AWS Lambda 
+- Tableau for Visualization
 
 
 ## AWS Architecture: 
