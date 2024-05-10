@@ -41,15 +41,15 @@ Link:https://data.cityofnewyork.us/Health/Self-Reported-Drinking-Water-Tank-Insp
 Amazon Web Services
 
 ### Services to be used: 
-AWS SNS
-AWS EventBridge
-AWS IAM
-AWS RDS
-AWS VPC
-AWS S3 
-AWS Glue
-AWS Lambda 
-Tableau for Visualization
+- AWS SNS
+- AWS EventBridge
+- AWS IAM
+- AWS RDS
+- AWS VPC
+- AWS S3 
+- AWS Glue
+- AWS Lambda 
+- Tableau for Visualization
 
 
 ## AWS Architecture: 
