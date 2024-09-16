@@ -1,7 +1,13 @@
 # DAV6100: IA Final Project: Mission Green
 
 ### Project Name: Mission Green
-
+### Team -
+    Mudassir Imam
+    Shubham Pant
+    Arunesh Kumar Rai
+    Harsh Kumar Waghmaria
+    Aquib
+    
 ### Problem Statement: 
 In today's world, as the population increases, we face a significant problem: finding places where the air is clean to breathe and the water is safe to drink. To tackle this issue, we've come together to locate areas with clean air and drinkable water.
 
